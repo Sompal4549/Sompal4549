@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @Sompal4549
+
+- ![Hi](https://user-images.githubusercontent.com/96425978/181788422-c5a20bfd-e243-496e-8b90-50ac9e9479f7.gif) Hi, I am Sompal here.
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on CSS, HTML and Bootstrap
