@@ -7,6 +7,7 @@
 ### I prefer you to use *[chakra ui](https://chakra-ui.com/)* if you want responsive react app if you need help to use chakra please let me know
 ### 6 months experience of using *[chakra ui](https://chakra-ui.com/)* elements in React App
 ### Currently working in *Qwerty Thought PVT. LTD.*
+### My linkeding profile please [visit](https://www.linkedin.com/in/sompal-kumar-b62b5022b/)
 <!--- 
 Sompal4549/Sompal4549 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
