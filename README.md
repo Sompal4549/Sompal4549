@@ -1,8 +1,8 @@
 
 ![Hi](https://user-images.githubusercontent.com/96425978/181788422-c5a20bfd-e243-496e-8b90-50ac9e9479f7.gif) 
-# *Hi team, I am Sompal here.*
+# *Hi friends, I am Sompal here.*
 ### I’m looking to collaborate on CSS, HTML, Javascript,React Js, Next Js, JSON Jquery and Bootstrap
-### Designing cool and responsive website is my passion
+### Designing cool and responsive website and learning new things daily is my passion
 ### C𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 learning React Js, Next Js and Node Js
 ### I prefer you to use *[chakra ui](https://chakra-ui.com/)* if you want responsive react app if you need help to use chakra please let me know
 ### 6 months experience of using *[chakra ui](https://chakra-ui.com/)* elements in React App
