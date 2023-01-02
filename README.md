@@ -1,7 +1,9 @@
 # 💫 About Me:
-Sompal4549
-
-
+![Hi](https://user-images.githubusercontent.com/96425978/181788422-c5a20bfd-e243-496e-8b90-50ac9e9479f7.gif) 
+# *Hi, I am Sompal*
+### I’m looking to collaborate on CSS, HTML, Javascript,React Js, Next Js, JSON Jquery and Bootstrap
+### Designing cool and responsive website and learning new things daily is my passion
+### C𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 learning React Js, Next Js and Node Js
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/https://www.behance.net/somsoni_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sompal-kumar-b62b5022b) 
 
